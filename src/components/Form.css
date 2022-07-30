@@ -3,7 +3,7 @@
     background-position: center;
     display: inline;
     width: 600px;
-    height: 600px;
+    height: 650px;
     justify-content: center;
 }
 
@@ -12,13 +12,23 @@
     margin-right: 35px;
     margin-left: 35px;
     margin-top: 25px;
-    margin-bottom: 25px;
+}
+
+.contact-button-wrapper {
+    display: flex;
+    justify-content: right;
+}
+
+.contact-button-item {
+    width: 200px;
+    margin-right: 40px;
 }
 
 .one-line {
     width: 530px;
     height: 30px;
     font-size: 18px;
+    resize: none;
 }
 
 .multi-line {
@@ -27,4 +37,5 @@
     width: 530px;
     height: 325px;
     font-size: 26px;
+    resize: none;
 }
