@@ -6,7 +6,13 @@ import MultiForm from '../MultiForm'
 function Contact() {
     return (
         <div className='contact'>
+            <div className='contact-menu'>
+                
+            </div>
             <div className='blank'>
+                <div className='message-wrapper'>
+                    <h2>Contact Us</h2>
+                </div>
                 <div className='contact-wrapper'>
                     <SingleForm className='one-line' placeholder='Type your name here'/>
                 </div>
