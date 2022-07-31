@@ -11,6 +11,7 @@ function HeroSection() {
             <p>What are you waiting for?</p>
             <div to='/sign-up' className='hero-btns'>
                 <Button className='btns'
+                    to='/sign-up'
                     buttonStyle='btn--outline'
                     buttonSize='btn--large'>
                     GET STARTED
