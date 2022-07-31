@@ -7,7 +7,7 @@ Not meant to be treated as a finished product, mostly having fun and experimenti
 Make a page showing off services as well as pages to more information.
 Make a dropdown menu for services by hovering over the button.
 Make it possible to contact us.
-Add a double button to choose email or text
-Add a dropdown menu to choose who to send the message to
+Add a double button to choose email or text.
+Add a dropdown menu to choose who to send the message to.
 Implement a youtube video into the site.
 Add links to other sites.

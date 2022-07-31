@@ -47,5 +47,12 @@
 }
 
 .contact-menu {
-    
+    background-color: rgb(5, 53, 225);
+    background-position: center;
+    display: inline;
+    width: 600px;
+    height: 195px;
+    justify-content: center;
+    text-align: center;
+    margin-bottom: 30px;
 }
